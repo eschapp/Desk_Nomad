@@ -15,8 +15,8 @@
 # 'key_file' and 'cert_file' are required for serving HTTPS
 #------------------------------------------------------------------------------
 secure = false
-key_file = "horizon-key.pem"
-cert_file = "horizon-cert.pem"
+# key_file = "horizon-key.pem"
+# cert_file = "horizon-cert.pem"
 
 
 ###############################################################################
